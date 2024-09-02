@@ -18,6 +18,9 @@
        - tensor level implementation of patch creation
        
 
-        
+## References
+- https://github.com/lucidrains/vit-pytorch
+
+
 
 
