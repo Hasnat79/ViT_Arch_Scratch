@@ -21,6 +21,7 @@
 ## References
 - https://github.com/lucidrains/vit-pytorch
 
+- https://github.com/tintn/vision-transformer-from-scratch
 
 
 
